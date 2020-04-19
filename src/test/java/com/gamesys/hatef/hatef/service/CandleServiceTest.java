@@ -1,8 +1,9 @@
-package com.gamesys.hatef.service;
+package com.gamesys.hatef.hatef.service;
 
 import com.gamesys.hatef.model.PriceCandle;
 import com.gamesys.hatef.model.SummaryDetails;
 import com.gamesys.hatef.repository.CandleRepository;
+import com.gamesys.hatef.service.CandleService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

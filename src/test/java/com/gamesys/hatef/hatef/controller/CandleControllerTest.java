@@ -1,5 +1,6 @@
-package com.gamesys.hatef.controller;
+package com.gamesys.hatef.hatef.controller;
 
+import com.gamesys.hatef.controller.CandleController;
 import com.gamesys.hatef.model.PriceCandle;
 import com.gamesys.hatef.model.SummaryDetails;
 import com.gamesys.hatef.service.CandleService;
